@@ -5,7 +5,7 @@
 <h3 align="left">Sobre Mim:</h3>
 
 ###
-[<img align="left" height="100px" width="150px" alt="Anhanguera" src="https://seeklogo.com/images/A/anhanguera-logo-61A5EAD5BA-seeklogo.com.png"/>](https://www.anhanguera.com)
+<img align="left" height="100px" width="150px" alt="Anhanguera" src="https://seeklogo.com/images/A/anhanguera-logo-61A5EAD5BA-seeklogo.com.png"/>
 
 **Análise e Desenvolvimento de Sistemas** \
 [**Anhanguera**](https://www.anhanguera.com) • Nível: Tecnólogo \
