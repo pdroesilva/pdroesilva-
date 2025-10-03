@@ -1,21 +1,17 @@
 # Olá, muito prazer, eu sou o Pedro Eduardo!
+💻 Desenvolvedor em formação | Focado em **Full Stack** com ênfase em **Back-end**  
+📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🌱 Atualmente estou aprofundando meu conhecimento em RPA
 - 💬 Estou aprimorando minhas habilidades em Python e Api's
 - 📫 Você me acha através do e-mail eduardopedro730pedro@gmail.com
 
-## Ferramentas e Tecnologias
-
-
-
-## Linguagens
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+## 🔧 Tecnologias & Ferramentas
+- **Linguagens:** HTML, CSS, JavaScript, PHP, Python, SQL  
+- **Banco de Dados:** MySQL  
+- **Ferramentas:** Git, GitHub, MySQL Workbench, VS Code  
+- **Interesses:** Back-end, Full Stack, Computação em Nuvem ☁️  
 
 ## Contatos:
 <div>
