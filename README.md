@@ -1,7 +1,23 @@
 # Olá, muito prazer, eu sou o Pedro Eduardo!
 💻 Desenvolvedor em formação | Focado em **Full Stack** com ênfase em **Back-end**  
-📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**  
 ## Bem vindo ao meu perfil GitHub 👋
+
+<h3 align="left">Sobre Mim:</h3>
+
+###
+[<img align="left" height="100px" width="150px" alt="Anhanguera" src="https://seeklogo.com/images/A/anhanguera-logo-61A5EAD5BA-seeklogo.com.png"/>](https://www.anhanguera.com)
+
+**Análise e Desenvolvimento de Sistemas** \
+[**Anhanguera**](https://www.anhanguera.com) • Nível: Tecnólogo \
+Linguagens & Tecnologias: `Python`, `JavaScript`, `PHP`, `MySQL`, `HTML5`, `CSS`, `Git & GitHub`, `Cloud Computing`
+<br/>
+
+[<img align="left" height="100px" width="150px" alt="Warpnet" src="https://github.com/user-attachments/assets/57ff7e31-f1bb-4eca-a41d-77c6ba99663f"/>](https://fieb.edu.br/curso/informatica/)
+
+**Informática** \
+[**FIEB (ITB)**](https://fieb.edu.br/curso/informatica/) • Nivel: Técnico\
+Linguagens & Tecnologias: `Python`, `Java`, `Html5`, `JavaScript`, `CSS`, `SQL`\
+<br/>
 
 - 🌱 Atualmente estou aprofundando meu conhecimento em RPA
 - 💬 Estou aprimorando minhas habilidades em Python e Api's
