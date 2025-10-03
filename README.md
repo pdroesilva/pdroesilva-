@@ -7,11 +7,21 @@
 - 💬 Estou aprimorando minhas habilidades em Python e Api's
 - 📫 Você me acha através do e-mail eduardopedro730pedro@gmail.com
 
-## 🔧 Tecnologias & Ferramentas
-- **Linguagens:** HTML, CSS, JavaScript, PHP, Python, SQL  
-- **Banco de Dados:** MySQL  
-- **Ferramentas:** Git, GitHub, MySQL Workbench, VS Code  
-- **Interesses:** Back-end, Full Stack, Computação em Nuvem ☁️  
+### Ferramentas que utilizo:
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+
+### Linguagens:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 ## Contatos:
 <div>
