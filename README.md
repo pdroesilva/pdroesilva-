@@ -29,11 +29,10 @@
 <a href="https://www.linkedin.com/in/pedroeduardo011/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/pdroesilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdroesilva&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pdroesilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## ⭐ Informações sobre minha conta GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpzinn654&layout=compact&theme=radical)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jpzinn654&theme=radical)
 
 
 
