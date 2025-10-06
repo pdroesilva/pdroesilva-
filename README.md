@@ -1,4 +1,4 @@
-# Olá, muito prazer, eu sou o Pedro Eduardo!
+# Olá, muito prazer, meu nome é Pedro Eduardo!
 💻 Desenvolvedor em formação | Focado em **Full Stack** com ênfase em **Back-end**  
 ## Bem vindo ao meu perfil GitHub 👋
 
